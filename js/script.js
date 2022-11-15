@@ -199,3 +199,17 @@ function onWindowResize() {
   renderer.setSize(window.innerWidth, window.innerHeight);
 }
 window.alert("我爱你苗苗")
+window.alert("遇见你爱意汹涌，看世间万物都浪漫心动！")
+window.alert("我想见你，不远万里！")
+window.alert("是晚风，是日落，是心动，是无可代替，是你！")
+window.alert("希望我的宝贝要平平安安，要天天开心！")
+window.alert("遇花闻花，遇海看海，遇你则深爱你！")
+window.alert("你永远在我心里无可替代！")
+window.alert("我的心里无论挖得再深也还是你！")
+window.alert("遇见你爱意汹涌，看世间万物都浪漫心动！")
+window.alert("我想见你，不远万里！")
+window.alert("是晚风，是日落，是心动，是无可代替，是你！")
+window.alert("希望我的宝贝要平平安安，要天天开心！")
+window.alert("遇花闻花，遇海看海，遇你则深爱你！")
+window.alert("你永远在我心里无可替代！")
+window.alert("还有：今天的盐吃的有点多，闲的想你了！[笔芯]")
